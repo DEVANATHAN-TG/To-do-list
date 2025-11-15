@@ -131,11 +131,22 @@ Visit http://localhost:3000 to see your app!
 - 💾 Data persists in PostgreSQL database
 - 🎨 Beautiful UI with gradient design
 
+## 🛠️ Tech Stack
+
+- Frontend: React 18+, CSS3
+- Backend: Supabase (PostgreSQL)
+- Authentication: Supabase Auth (Ready for implementation)
+- Deployment: Netlify/Vercel ready
+
 ## 📋 Prerequisites
 
-- Node.js v14+ and npm
-- A Supabase account (free at https://supabase.com)
+Before you begin, ensure you have the following installed:
 
-## 🛠️ Setup Instructions
+- Node.js v14 or higher
+- npm or yarn
+- A Supabase account (free tier available)
 
-### 1. Clone the repository
+## Clone the repository
+git clone https://github.com/DEVANATHAN-TG/To-do-list.git
+
+### This Only For Education Purpose 
