@@ -1,6 +1,6 @@
-# 📝 React + Supabase Todo App
+# My First React Project 😊
 
-My First React Project 😊
+📝 React + Supabase Todo App
 
 A complete CRUD application built with React and Supabase, Responsive design for mobile and desktop.✅
 
